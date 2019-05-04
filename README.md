@@ -12,4 +12,4 @@
 | 13th April,2019  | Support Vector Machines                           | Benjamin Akera                 | [code](https://github.com/Mujerry/air_mentorship/tree/master/08-Support-Vector-Machines)           |
 | 20th April, 2019 | Fundamentals of Neural Networks and Deep Learning | Ernest Mwebaze                 |                                                                                                    |
 | 27th April, 2019 | Practical Neural Networks in Numpy                | Benjamin Akera                 | [code](https://github.com/Mujerry/air_mentorship/tree/master/09-Neural-Nets)                       |
-| 4th May, 2019 | Introduction to Convolutional Neural Networks                | Dominiquo Santistevan                 | [code](https://github.com/Mujerry/air_mentorship/tree/master/09-Neural-Nets)                       |
+| 4th May, 2019 | Introduction to Convolutional Neural Networks                | Dominiquo Santistevan                 | [slides](https://github.com/airmentorship/air_mentorship_program/blob/master/10-Intro-to-ConvNets/Data_science_class_Spring_2019.pdf)                       |
